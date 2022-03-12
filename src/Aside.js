@@ -2,7 +2,7 @@ export default function Aside() {
   return (
     <aside>
       <div class="usuario">
-        <img src="assets/img/catanacomics.svg" />
+        <img src="./assets/catanacomics.svg" />
         <div class="texto">
           <strong>catanacomics</strong>
           Catana
@@ -17,7 +17,7 @@ export default function Aside() {
 
         <div class="sugestao">
           <div class="usuario">
-            <img src="assets/img/bad.vibes.memes.svg" />
+            <img src="./assets/bad.vibes.memes.svg" />
             <div class="texto">
               <div class="nome">bad.vibes.memes</div>
               <div class="razao">Segue você</div>
@@ -29,7 +29,7 @@ export default function Aside() {
 
         <div class="sugestao">
           <div class="usuario">
-            <img src="assets/img/chibirdart.svg" />
+            <img src="./assets/chibirdart.svg" />
             <div class="texto">
               <div class="nome">chibirdart</div>
               <div class="razao">Segue você</div>
@@ -41,7 +41,7 @@ export default function Aside() {
 
         <div class="sugestao">
           <div class="usuario">
-            <img src="assets/img/razoesparaacreditar.svg" />
+            <img src="./assets/razoesparaacreditar.svg" />
             <div class="texto">
               <div class="nome">razoesparaacreditar</div>
               <div class="razao">Novo no Instagram</div>
@@ -53,7 +53,7 @@ export default function Aside() {
 
         <div class="sugestao">
           <div class="usuario">
-            <img src="assets/img/adorable_animals.svg" />
+            <img src="./assets/adorable_animals.svg" />
             <div class="texto">
               <div class="nome">adorable_animals</div>
               <div class="razao">Segue você</div>
@@ -65,7 +65,7 @@ export default function Aside() {
 
         <div class="sugestao">
           <div class="usuario">
-            <img src="assets/img/smallcutecats.svg" />
+            <img src="./assets/smallcutecats.svg" />
             <div class="texto">
               <div class="nome">smallcutecats</div>
               <div class="razao">Segue você</div>

@@ -1,6 +1,7 @@
 import Header from './Header';
 import Stories from './Stories';
 import Post from './Post';
+import Post2 from './Post2';
 import Aside from './Aside';
 import Footer from './Footer';
 
@@ -10,6 +11,7 @@ function Container(){
 <div class="esquerda">
     <Stories />
 	<Post />
+    <Post2 />
     </div>
   );
 }
