@@ -1,7 +1,7 @@
 export default function Post2() {
   return (
-    <div class="post">
-      <div class="topo">
+    <div className="post">
+      <div className="topo">
         <div class="usuario">
           <img src="./assets/barked.svg" />
           barked
@@ -11,11 +11,11 @@ export default function Post2() {
         </div>
       </div>
 
-      <div class="conteudo">
+      <div className="conteudo">
         <img src="./assets/dog.svg" />
       </div>
 
-      <div class="fundo">
+      <div className="fundo">
         <div class="acoes">
           <div>
             <ion-icon name="heart-outline"></ion-icon>

@@ -8,7 +8,7 @@ import Footer from './Footer';
 
 function Container(){
     return(
-<div class="esquerda">
+<div className="esquerda">
     <Stories />
   	<Post />
     <Post2 />

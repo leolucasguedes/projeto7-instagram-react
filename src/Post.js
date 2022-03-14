@@ -1,21 +1,21 @@
 export default function Post() {
   return (
-    <div class="post">
-      <div class="topo">
-        <div class="usuario">
+    <div className="post">
+      <div className="topo">
+        <div className="usuario">
           <img src="./assets/meowed.svg" />
           meowed
         </div>
-        <div class="acoes">
+        <div className="acoes">
           <ion-icon name="ellipsis-horizontal"></ion-icon>
         </div>
       </div>
 
-      <div class="conteudo">
+      <div className="conteudo">
         <img src="./assets/gato-telefone.svg" />
       </div>
 
-      <div class="fundo">
+      <div className="fundo">
         <div class="acoes">
           <div>
             <ion-icon name="heart-outline"></ion-icon>
