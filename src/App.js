@@ -10,7 +10,7 @@ function Container(){
     return(
 <div class="esquerda">
     <Stories />
-	<Post />
+  	<Post />
     <Post2 />
     </div>
   );
@@ -32,8 +32,8 @@ export default function App() {
     return (
         <div>
             <Header />
-			<Main />
+		      	<Main />
             <Footer />
-		</div>
+		    </div>
     );
 }
